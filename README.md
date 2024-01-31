@@ -25,12 +25,12 @@
 - 💻 Love learning about new technologies and concepts
 - 👨‍💻 Enjoy writing programs especially for web
 - 🌱 Currently learning **C++** and **Matlab**
-- 👨‍💻 All of my projects are available at [my github](https://github.com/amin-pro)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/amin-not-found)
 
 </br>
 
-[![Github trophies](https://github-profile-trophy.vercel.app/?username=amin-pro&theme=default&margin-w=10&rank=-?&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
-[![Github trophies](https://github-profile-trophy.vercel.app/?username=amin-pro&theme=onestar&margin-w=10&rank=-?&no-frame=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
+[![Github trophies](https://github-profile-trophy.vercel.app/?username=amin-not-found&theme=default&margin-w=10&rank=-?&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-light-mode-only)
+[![Github trophies](https://github-profile-trophy.vercel.app/?username=amin-not-found&theme=onestar&margin-w=10&rank=-?&no-frame=true#gh-dark-mode-only)](https://github.com/ryo-ma/github-profile-trophy#gh-dark-mode-only)
 
 ## Languages
 
@@ -81,9 +81,9 @@
 
 ## Github stats
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amin-pro&show_icons=true&theme=dark&card_width=600&rank_icon=github&include_all_commits=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amin-pro&show_icons=true&theme=default&card_width=600&rank_icon=github&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=amin-not-found&show_icons=true&theme=dark&card_width=600&rank_icon=github&include_all_commits=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=amin-not-found&show_icons=true&theme=default&card_width=600&rank_icon=github&include_all_commits=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-pro&theme=dark&langs_count=8&layout=compact&card_width=600&size_weight=0.6&count_weight=0.4#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-pro&langs_count=8&layout=compact&card_width=600&size_weight=0.6&count_weight=0.4#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-not-found&theme=dark&langs_count=8&layout=compact&card_width=600&size_weight=0.6&count_weight=0.4#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amin-not-found&langs_count=8&layout=compact&card_width=600&size_weight=0.6&count_weight=0.4#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
